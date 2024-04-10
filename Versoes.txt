@@ -1,3 +1,156 @@
 Versões que eu tenho :
 
 1.14
+  	- New Card: Ghost
+  	- New Card: Minion (available only through other cards)
+  	- Creature: Manaseeker now has Mana Vessel 1 instead of 2
+  	- Creature: Spectre now has Drain Strength instead of Weaken 1, level reduced to 5, life reduced to 9
+  	- Creature: Ooze lost Armor and Fusion and now has Poison, strength increased to 1, life increased to 5
+  	- Creature: Skeleton lost Mana Vessel 1
+  	- Ability: Drain Strength added
+  	- Ability: Ambush completely changed to allow further casting
+  	- Ability: Armament is now a comes into play ability
+  	- Ability: Terror is now a comes into play ability
+  	- Ability: Rally is now a comes into play ability
+  	- Ability: Coward is now a comes into play ability
+  	- Ability: Pack Attack is now a comes into play ability and renamed Pack
+  	- Ability: Armor now has 50% chance to negate all incoming damage
+  	- Ability: Reanimate completely changed
+  	- Spell: Shared Life completely changed
+  	- Spell: Weakness now reduces strength to 1 instead of by 1
+  	- Spell: Fireball doesn't deal damage to allies anymore
+  	- Art: Art improved on Druid and Heroism
+  	- Activated abilities now glow during your casting phase
+  	- Fixed issues with email inputting
+  	- Added and changed many visual effects and sounds
+  	- AI improvements
+
+1.131
+  	- Ability: Swarm now works properly with 0 damage.
+  	- Fixed crashing in Story Mode challenges
+
+1.13
+  	- New Card: Titan
+  	- New Card: Terminate
+  	- New Card: Manticore
+ 	- Creature: Gargoyle now has Armor 1 instead of Statue 1
+  	- Creature: Mind Blocker lost 1 strength and 4 life
+  	- Ability: Enrage mechanic streamlined
+  	- Ability: Demon can no longer be played on top of another demon
+  	- Ability: Martyr description improved
+  	- Ability: Reanimate description improved
+  	- Ability: Trample playing cost changed
+  	- Ability: Spell Amplify no longer improves healing spells, but deals extra damage with all spells affecting enemies
+  	- Ability: Fusion no longer has a cost
+  	- Ability: Shapeshift completely changed
+  	- Ability: Mechanical now blocks only the negative effects from spells with both negative and positive effects
+  	- Spell: Chaos Bolt's damage increased by 1
+  	- Spell: Earthquake's damage increased and extended from Walls to enemies without actions
+  	- Spell: Boiling Blood's life loss is now damage equal target creature's strength
+  	- Spell: Dark Aura's life loss is now damage
+  	- Spell: Heroism description improved
+  	- Art: Art improved on Gargoyle, Harpy, Orc, Mind Blocker, Wolf and Skeleton
+  	- A couple of visual effects changed
+ 	- Orc no longer causes occassional freezing
+  	- Shriek & Rebirth combo no longer causes freezing
+  	- Improved online connection stability
+  	- Improved AI
+  	- Improved random hand generation algorithm
+  	- Streamlined error notifications in Online Lobby
+  	- Changed online rating algorithm
+  	- Added 10 cards for trial players: Demon, Dwarf, Blood Magus, Fire Drake, Mind Blocker, Medusa, Angel, Phoenix, Lightning Bolt, Demoralize
+  	- AI now has access to all cards in trial mode
+
+1.12
+	- New card: Chain Lightning
+	- New card: Orc
+	- Ranked online matches are now available
+	- Online games now have timed turns (1 minute)
+	- Advantage selection buttons changed to show the exact amount of bonuses
+	- Minor lobby tweaks
+	- Ability: Pack Attack now increases strength based on the amount of creatures
+	- AI Improvements
+	
+1.11	
+	- New card: Doppelganger
+	- Ability: Thorns no longer deals damage to moving creatures
+	- AI improvements
+	- Players currently playing online are now shown in the lobby player list
+	- Online lobby streamlined
+	- Online lobby bug fixes
+	- Story mode: Dragon challenge fixed
+
+1.1	
+ 	- Launcher issues with Windows Vista and Windows 7 fixed
+	- Freezing issues with Windows Vista and Windows 7 fixed
+	- Launcher art renewed
+	- Installer now includes all game files
+ 	- Giant is now shown correctly in hand during casting phase
+ 	- A "Clear Hand" button was added to the hand editor
+ 	- Ability: Rebirth now works correctly with Dark Aura and Boiling Blood
+  	- Ability: Degeneration now works correctly with Heal
+  	- Ability: Golem no longer triggers Thorns ability
+ 	- Removed XNA install warnings
+	- "Buy Now!" link works again 	
+	- AI improvements
+
+1.0
+	- Online lobby (beta) opened
+	- New card: Demoralize
+	- New card: Fire Drake
+	- New card: Mummy
+	- Many portraits were improved
+	- In-game help was expanded
+	- Improved main menu art
+	- Fixed a bug that caused occasional crashing
+	- AI improvements
+	- Ability: Fusion now increases maximum life by 1 only
+	- Ability: Trample now requires mana equal to double the target creature's life
+ 	- Ability: Rebirth now reduces maximum life instead of mana, new visual effect
+	- Creature: Phoenix rebirth 3 increased to 5
+	- Creature: Will-o'-the-Wisp rebirth increased to 3, mana vessel 1 added
+	- Creature: Troll level increased to 5, life increased to 13
+	- Creature: Dryad lost mana production 1 ability
+	- Creature: Nightmare attack reduced to 0, life reduced to 6
+	- Creature: Spectre level increased to 6, life increased to 10
+	- Creature: Dragon firebreath 4 reduced to 3
+	- Creature: Hydra level increased to 7, life increased to 15
+	- Spell: Earthquake now stuns only enemies and deals 2 damage to enemy Walls
+	- Spell: Fireball damage increased from 3&1 to 3&2
+
+0.975 BETA
+	- New card: Wolf
+	- Trial players have access to Minotaur and Banshee
+	- Unavailable cards are now visible in the hand editor
+	- Random hand generation was tweaked
+
+0.971 BETA
+	- Occasional crashing with Tornado/Hurricane fixed
+	- Several Multiplayer bugs fixed 	
+
+0.97 BETA
+	- Mythoria now requires XNA Redistributable 3.1
+	- TCP/IP multiplayer mode was added
+	- Giant, Wall of Souls and Capture Soul were balanced
+	- Game launcher is not an XNA application anymore
+	- Launcher notifies players who don't have XNA installed
+	- The term "deck" was changed to "hand"
+	- Hand editor now allows saving decks without naming them
+	- Random hands can now be generated in the hand editor
+	- Reanimate now correctly triggers comes into play effects
+	- Fusion was reworded
+	- AI's hand generation was improved
+
+0.96 BETA
+	- Few more visual effects added
+	- Capture Soul no longer spends mana incorrectly 
+	- Few abilities had their descriptions clarified
+	- Some rare graphical glitches fixed
+	- Rare activation key problem fixed
+	- Story Mode was fine-tuned
+	- Fireball's damage was decreased to 3 and 1
+	- Extended Fate's cost was increased to 3
+	- AI Improvements
+
+0.95 BETA	
+	- Initial Beta release
