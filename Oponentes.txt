@@ -1,12 +1,18 @@
-Wir = 
-Druid
-Moss Horror ( Stinking Cloud )
-M�g-Fireball
+Mythoria_Oponentes
 
 Otar
 Fire Elemental 3/1/7
 Goblin
 Wall of Roots
+
+Papa
+Imp 1/1/5
+
+Wir = 
+Druid
+Moss Horror ( Stinking Cloud )
+Mag-Fireball
+
 
 Grandma
 Centaur 
